@@ -189,7 +189,7 @@ class CheckInWIdget extends StatelessWidget {
               child: CircleAvatar(
                 radius: 35.0,
                 backgroundImage:
-                    AssetImage('assets/aca.png'), //user.jpg
+                    AssetImage('assets/user.jpg'), //user.jpg
               ),
             ),
             Column(
@@ -205,7 +205,7 @@ class CheckInWIdget extends StatelessWidget {
                         right: 0,
                         bottom: 0)),
                 Text(
-                  'Aleksandra Ristić',  //Aleksandra Ristić
+                  'Stefan Ristic',  //Aleksandra Ristić
                   style: TextStyle(
                       fontSize: 15.0,
                       fontFamily: 'Lexend',
