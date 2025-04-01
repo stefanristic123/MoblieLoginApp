@@ -27,7 +27,7 @@ class _ProfileViewState extends State<ProfileView> {
                         padding: EdgeInsets.only(left: 20, top: 10, right: 20), // Iphone 14 ide 20 
                         child: CircleAvatar(
                           radius: 40.0,
-                          backgroundImage: AssetImage('assets/aca.png'), // user.jpg
+                          backgroundImage: AssetImage('assets/user.jpg'), // user.jpg
                         ),
                       ),
                       Column(
@@ -38,7 +38,7 @@ class _ProfileViewState extends State<ProfileView> {
                               padding:
                                   EdgeInsets.only(left: 0, top: 15, right: 0)),
                           Text(
-                            'Aleksandra Ristić',  //Aleksandra Ristić
+                            'Milica Kantar',  //Milica Kantar
                             style: TextStyle(
                                 fontSize: 18.0,
                                 fontFamily: 'Lexend',
@@ -47,7 +47,7 @@ class _ProfileViewState extends State<ProfileView> {
                           ),
                           // SizedBox(height: 4.0),
                           Text(
-                            'risticaleksandra2800@gmail.com', // 'risticaleksandra2800@gmail.com'
+                            'milicakantar98@gmail.com', // 'milicakantar98@gmail.com'
                             style: TextStyle(
                                 fontSize: 14.0,
                                 fontFamily: 'Lexend',
@@ -70,7 +70,7 @@ class _ProfileViewState extends State<ProfileView> {
                         crossAxisAlignment: CrossAxisAlignment.center,
                         children: [
                           Text(
-                            'VC150235',
+                            'VC1350238',
                             style: TextStyle(
                                 fontSize: 14.5,
                                 color: Colors.white,

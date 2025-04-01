@@ -189,7 +189,7 @@ class CheckInWIdget extends StatelessWidget {
               child: CircleAvatar(
                 radius: 35.0,
                 backgroundImage:
-                    AssetImage('assets/aca.png'), //user.jpg
+                    AssetImage('assets/user.jpg'), //user.jpg
               ),
             ),
             Column(
@@ -205,7 +205,7 @@ class CheckInWIdget extends StatelessWidget {
                         right: 0,
                         bottom: 0)),
                 Text(
-                  'Aleksandra Ristić',  //Aleksandra Ristić
+                  'Milica Kantar',  //Milica Kantar
                   style: TextStyle(
                       fontSize: 15.0,
                       fontFamily: 'Lexend',
@@ -226,7 +226,7 @@ class CheckInWIdget extends StatelessWidget {
                   CrossAxisAlignment.center,
               children: [
                 Text(
-                  'Fitness Centar 4Life',
+                  'Blue Line Fitness-Wellnes-Gym',
                   style: TextStyle(
                       fontSize: 17.0,
                       fontFamily: 'Lexend',
