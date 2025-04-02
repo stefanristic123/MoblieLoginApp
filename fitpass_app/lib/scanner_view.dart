@@ -226,7 +226,7 @@ class CheckInWIdget extends StatelessWidget {
                   CrossAxisAlignment.center,
               children: [
                 Text(
-                  'Fitness Centar 4Life',
+                  'Blue Line Fitness-Wellnes-Gym',
                   style: TextStyle(
                       fontSize: 17.0,
                       fontFamily: 'Lexend',
