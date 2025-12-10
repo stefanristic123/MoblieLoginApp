@@ -38,7 +38,7 @@ class _ProfileViewState extends State<ProfileView> {
                               padding:
                                   EdgeInsets.only(left: 0, top: 15, right: 0)),
                           Text(
-                            'Stefan Ristic',  //Aleksandra Ristić
+                            'Milica Kantar',  //Aleksandra Ristić
                             style: TextStyle(
                                 fontSize: 18.0,
                                 fontFamily: 'Lexend',
@@ -47,7 +47,7 @@ class _ProfileViewState extends State<ProfileView> {
                           ),
                           // SizedBox(height: 4.0),
                           Text(
-                            'stefanristic132@gmail.com', // 'risticaleksandra2800@gmail.com'
+                            'milicakantar28@gmail.com', // 'risticaleksandra2800@gmail.com'
                             style: TextStyle(
                                 fontSize: 14.0,
                                 fontFamily: 'Lexend',

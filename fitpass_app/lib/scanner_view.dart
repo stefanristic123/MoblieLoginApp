@@ -205,7 +205,7 @@ class CheckInWIdget extends StatelessWidget {
                         right: 0,
                         bottom: 0)),
                 Text(
-                  'Stefan Ristic',  //Aleksandra Ristić
+                  'Milica Kantar',  //Aleksandra Ristić
                   style: TextStyle(
                       fontSize: 15.0,
                       fontFamily: 'Lexend',
@@ -226,7 +226,7 @@ class CheckInWIdget extends StatelessWidget {
                   CrossAxisAlignment.center,
               children: [
                 Text(
-                  'Fitness Centar 4Life',
+                  'Blue Line',
                   style: TextStyle(
                       fontSize: 17.0,
                       fontFamily: 'Lexend',
